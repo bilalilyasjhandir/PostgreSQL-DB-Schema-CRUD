@@ -1,0 +1,1 @@
+UPDATE company SET website='www.barakodetechnologies.com' WHERE id='d79ea2ec-208c-4399-a22a-54ec2a9525ce';

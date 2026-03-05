@@ -1,0 +1,1 @@
+DELETE FROM company WHERE is_active=FALSE;

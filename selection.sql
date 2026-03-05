@@ -1,0 +1,1 @@
+SELECT * FROM company WHERE is_active = TRUE;

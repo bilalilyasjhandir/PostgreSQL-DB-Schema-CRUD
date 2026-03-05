@@ -1,0 +1,1 @@
+INSERT INTO company(name, email, website) VALUES ('barakode', 'barakode@gmail.com', 'www.barakode.com');
